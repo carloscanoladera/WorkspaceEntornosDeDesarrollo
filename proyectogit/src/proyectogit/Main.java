@@ -7,6 +7,7 @@ public class Main {
 		
 		System.out.println("Hola mundo"); 
 		System.out.println("Version Facil"); 
+		System.out.println("Version 2 Facil"); 
 
 	}
 
